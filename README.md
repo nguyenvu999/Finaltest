@@ -8,5 +8,5 @@
 It can be intimidating for women to learn and ask questions when they are in an extremely minority. While open and welcoming, today's budding developer community is up to 91% male. If we can empower more
 <h1>Our Locations</h1>
 <h2>USA</h2>
-<p style="color:blue;">, <ins>New York</ins>.</p> 
+<p style="color:blue;">ins>New York</ins>.</p> 
 <h1>Upcoming classes</h1>
