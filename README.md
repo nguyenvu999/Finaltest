@@ -34,3 +34,4 @@ table, th, td {
     <td>HTML&CSS</td>
   </tr>
 </table>
+.
