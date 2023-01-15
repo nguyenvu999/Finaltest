@@ -5,13 +5,10 @@
 </body>
 </html>
 <h1>About</h1>
-It can be intimidating for women to learn and ask questions when they are in an extremely minority. While open and welcoming, today's budding developer community is up to 91% male. If we <b>can</b>  empower more
+It can be intimidating for women to learn and ask questions when they are in an <b>extremely minority</b> . While open and welcoming, today's budding developer community is up to 91% male. If we <b>can</b>  empower more
 <h1>Our Locations</h1>
 <h2><li>USA</li></h2>
-<li><a href="#"> New York</a></li>
-<li><a href="#"> New York</a></li>
-<li><a href="#"> New York</a></li>
-<li><a href="#"> New York</a></li>
+<li><span style="color:blue;"><ins>New York</ins></span></li>
 <h1>Upcoming classes</h1>
 <html>
 <style>
@@ -34,4 +31,3 @@ table, th, td {
     <td>HTML&CSS</td>
   </tr>
 </table>
-.
