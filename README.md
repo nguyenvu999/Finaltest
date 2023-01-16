@@ -27,15 +27,29 @@
     <li>Barcelona campus</li>
 </ul>
 <h1> Our students</h1>
-<!DOCTYPE html>
+    <img src="RMIT_student.jpg" alt="RMIT">
+<h1> Want to know more about RMIT? Join our next Information Sessions </h1>
 <html>
-<head>
 <style>
-/* This style sets the width of all images to 100%: */
-img {
-  width: 20%;
+table, th, td {
+border:1px solid black;
 }
 </style>
-</head>
 <body>
-    <img src="RMIT_student" alt="RMIT">
+<table style="width:100%">
+<tr>
+<th>Time</th>
+<th>Location</th>
+<th>Address</th>
+</tr>
+<tr>
+<td>8:30 - 10:00 January 16, 2023</td>
+<td> Saigon South Campus, Room 2.4.02</td>
+<td> 702 Nguyen Van Linh, District 7, Ho Chi Minh City
+</tr>
+<tr>
+<td>8:30 - 10:00 January 16, 2023</td>
+<td> Hanoi campus, Room 1.10.001</td>
+<td> Handi Resco Building, 521 Kim Ma, Ba Dinh District, Hanoi</td>
+</tr>
+</table>
